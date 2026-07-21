@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 from langsmith import traceable
 from langchain_core.messages import SystemMessage, HumanMessage, ToolMessage
+from langchain.chat_models import init_chat_model
 from langchain_google_genai import ChatGoogleGenerativeAI
 from tools import searchitems, getitems, available_discounts, getreviews, calculate_final_price
 
@@ -17,6 +18,7 @@ def run_agent(question: str):
     tools_dict = {t.name: t for t in tools}
 
     # 2. Init LLM and bind tools
+    #llm = init_chat_model("ollama:qwen3.5:0.8b", temperature=0)
     llm = ChatGoogleGenerativeAI(temperature=0, model=MODEL)
     llm_with_tools = llm.bind_tools(tools)
 
