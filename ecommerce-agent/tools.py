@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from typing import Dict, Any, List
 from langchain_core.tools import tool
 
@@ -114,5 +115,50 @@ def getreviews(item_ids: List[str]) -> str:
     for item in inventory:
         if item["id"] in item_ids:
             results.append({"id": item["id"], "reviews": item.get("reviews", [])})
+            
+    return json.dumps({"items": results}, indent=2)
+
+@tool
+def calculate_final_price(item_ids: List[str]) -> str:
+    """
+    Calculate the final price for specific items after applying all available discounts.
+    
+    Args:
+        item_ids (List[str]): A list of product IDs to calculate the final price for.
+    """
+    inventory = _load_inventory()
+    results = []
+    
+    for item in inventory:
+        if item["id"] in item_ids:
+            base_price = item["price"]
+            final_price = base_price
+            discounts_applied = []
+            
+            for discount_str in item.get("discounts", []):
+                # Check for percentage discount
+                pct_match = re.search(r'(\d+)%\s*off', discount_str, re.IGNORECASE)
+                if pct_match:
+                    pct = float(pct_match.group(1))
+                    discount_amount = base_price * (pct / 100)
+                    final_price -= discount_amount
+                    discounts_applied.append(f"{pct}% off (-${discount_amount:.2f})")
+                
+                # Check for fixed dollar discount
+                fixed_match = re.search(r'Save\s*\$(\d+)', discount_str, re.IGNORECASE)
+                if fixed_match:
+                    fixed = float(fixed_match.group(1))
+                    final_price -= fixed
+                    discounts_applied.append(f"${fixed} off (-${fixed:.2f})")
+            
+            # Ensure price doesn't go below 0
+            final_price = max(0, final_price)
+            
+            results.append({
+                "id": item["id"],
+                "base_price": base_price,
+                "final_price": round(final_price, 2),
+                "discounts_applied": discounts_applied
+            })
             
     return json.dumps({"items": results}, indent=2)
