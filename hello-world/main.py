@@ -33,8 +33,8 @@ Musk's political activities, views, and statements have made him a polarizing fi
         input_variables=["information"], template=summary_template
     )
 
-    #llm = ChatGoogleGenerativeAI(temperature=0, model="gemini-3.1-flash-lite")
-    llm = ChatOllama(temperature=0, model="phi4-mini")
+    llm = ChatGoogleGenerativeAI(temperature=0, model="gemini-3.1-flash-lite")
+    #llm = ChatOllama(temperature=0, model="phi4-mini")
     chain = summary_prompt_template | llm
 
     response = chain.invoke(input={"information": information})
