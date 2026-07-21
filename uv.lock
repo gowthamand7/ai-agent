@@ -648,6 +648,20 @@ wheels = [
 ]
 
 [[package]]
+name = "langchain-agent"
+version = "0.1.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "langchain" },
+    { name = "langchain-ollama" },
+    { name = "python-dotenv" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/0b/b9/09ed3dad6924f8913db3c78d3e1cdbaf46fe0cecdffd9a76e401d68077ec/langchain_agent-0.1.1.tar.gz", hash = "sha256:06fee2853428ffebf41c6dd389989f8106246e5a58d4d3cccc3db7f4257dae95", size = 127139, upload-time = "2025-11-06T14:44:14.868Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ee/10/cd9a2383b7cee8d6d76fcb21b2203b1fa6a42ed7bfd692e8f58899fad55a/langchain_agent-0.1.1-py3-none-any.whl", hash = "sha256:34b0a2d1bbdaffacf3160e100cf66e8be0bfa16fc0370ce27a0453cee21b96c5", size = 11231, upload-time = "2025-11-06T14:44:11.712Z" },
+]
+
+[[package]]
 name = "langchain-classic"
 version = "1.0.8"
 source = { registry = "https://pypi.org/simple" }
@@ -715,6 +729,7 @@ dependencies = [
     { name = "black" },
     { name = "isort" },
     { name = "langchain" },
+    { name = "langchain-agent" },
     { name = "langchain-community" },
     { name = "langchain-core" },
     { name = "langchain-google-genai" },
@@ -731,6 +746,7 @@ requires-dist = [
     { name = "black", specifier = ">=26.5.1" },
     { name = "isort", specifier = ">=8.0.1" },
     { name = "langchain", specifier = ">=1.3.14" },
+    { name = "langchain-agent", specifier = ">=0.1.1" },
     { name = "langchain-community", specifier = ">=0.4.2" },
     { name = "langchain-core", specifier = ">=1.4.9" },
     { name = "langchain-google-genai", specifier = ">=4.2.7" },
