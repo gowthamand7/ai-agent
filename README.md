@@ -17,8 +17,8 @@ This repository tracks my learning path and projects to become a Principal/Senio
 Below is the targeted curriculum and current progress. Topics are marked as completed (`[x]`) as they are explored and implemented in this repository.
 
 ### Phase 1: Foundations for Building Real AI Systems
-- [ ] **Embeddings**
-  - [ ] Dense vs sparse embeddings, Cosine similarity, Semantic search, Chunking, Cross-encoder vs bi-encoder, Reranking
+- [x] **Embeddings**
+  - [x] Dense vs sparse embeddings, Cosine similarity, Semantic search, Chunking, Cross-encoder vs bi-encoder, Reranking
 - [ ] **Vector Databases**
   - [ ] Indexing, ANN search, HNSW, IVF, PQ, Metadata filtering (Pinecone, Qdrant, Milvus, pgvector)
 - [ ] **RAG (Retrieval-Augmented Generation)**
