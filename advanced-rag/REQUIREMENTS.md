@@ -25,16 +25,15 @@ This project aims to build an Advanced RAG-powered search bot that operates over
   - **Links**: Preserve relative paths and convert them to absolute ADO Wiki URLs for proper citation in the final bot response.
 
 ### 2. Chunking Strategy
-- **Hierarchical/Semantic Chunking**: Split documents based on markdown headers (`#`, `##`, `###`) rather than fixed character counts. This ensures that a single section (e.g., an API endpoint description) stays together.
-- **Parent-Child Retrieval**: Store small, highly-specific chunks (children) in the vector database for accurate similarity search, but retrieve the larger surrounding section (parent) to provide the LLM with full context.
+- **Semantic & Parent-Child Chunking (Zero Context Loss)**: Split documents based on markdown headers (`#`, `##`, `###`) rather than naive character counts. To guarantee zero context loss, use a Parent-Child architecture: index small, highly-specific chunks (children) in the vector database for precise matching, but retrieve the entire surrounding section or document (parent) to provide the LLM with complete context.
 
 ### 3. Embedding & Storage
-- **Hybrid Search**: Implement both dense vector embeddings (for semantic meaning) and sparse keyword search (BM25). Keyword search is crucial for exact-match code snippets, error codes, and specific repository names.
+- **Hybrid Search (Bi-Encoder + BM25)**: Use a Bi-Encoder model to generate Dense embeddings (for deep semantic meaning), combined with Sparse embeddings/BM25 (for exact-match keyword search). Keyword search is crucial for retrieving specific error codes, repository names, and code snippets that dense vectors often miss.
 - **Vector Database**: Use a scalable vector DB (like Qdrant, Milvus, or Pinecone) that natively supports metadata filtering (filtering by wiki folder, tags, or authors).
 
 ### 4. Retrieval & Generation (The Bot)
 - **Query Rewriting**: When a user asks a question, use a fast LLM to rewrite the query into multiple variations (e.g., translating a vague user question into specific technical keywords) to improve the retrieval hit rate.
-- **Reranking**: Use a Cross-Encoder (like Cohere Rerank or BGE-Reranker) to score and re-order the retrieved chunks before feeding them to the generation LLM.
+- **Cross-Encoder Reranking**: The initial hybrid search will return many candidate chunks. We will pass these candidates through a Cross-Encoder model (e.g., Cohere Rerank, BGE-Reranker) to score and highly optimize their order based on deep query-document interaction, ensuring the generation LLM only sees the absolute best context.
 - **Grounded Generation**: Prompt the LLM to answer the question using *only* the retrieved context, and mandate that it appends exact source URLs (clickable ADO wiki links) for every claim it makes.
 
 ---
