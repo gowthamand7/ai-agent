@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Cyborg Speaker Max 14",
+    "category": "Speaker",
+    "price": 118.49,
+    "description": "A high-quality speaker manufactured by Cyborg, featuring the latest max technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User138",
+        "rating": 5,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User297",
+        "rating": 2,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User869",
+        "rating": 3,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User379",
+        "rating": 2,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_002",
+    "name": "Nova Mobile Ultra 15",
+    "category": "Mobile",
+    "price": 657.93,
+    "description": "A high-quality mobile manufactured by Nova, featuring the latest ultra technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User341",
+        "rating": 3,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User225",
+        "rating": 4,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User589",
+        "rating": 4,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User412",
+        "rating": 4,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User309",
+        "rating": 3,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_003",
+    "name": "Cyborg Camera Elite 4",
+    "category": "Camera",
+    "price": 840.11,
+    "description": "A high-quality camera manufactured by Cyborg, featuring the latest elite technologies.",
+    "discounts": [
+      "Save $17 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User919",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User645",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User835",
+        "rating": 3,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_004",
+    "name": "TechCorp Tablet Elite 3",
+    "category": "Tablet",
+    "price": 712.92,
+    "description": "A high-quality tablet manufactured by TechCorp, featuring the latest elite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User800",
+        "rating": 5,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User257",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User271",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User249",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User523",
+        "rating": 2,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_005",
+    "name": "TechCorp Laptop Max 4",
+    "category": "Laptop",
+    "price": 1203.38,
+    "description": "A high-quality laptop manufactured by TechCorp, featuring the latest max technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User355",
+        "rating": 4,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User558",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User766",
+        "rating": 2,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User382",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_006",
+    "name": "ViewMaster Smartwatch Ultra 12",
+    "category": "Smartwatch",
+    "price": 109.45,
+    "description": "A high-quality smartwatch manufactured by ViewMaster, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $37 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User110",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User401",
+        "rating": 5,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_007",
+    "name": "Nova Speaker Pro 6",
+    "category": "Speaker",
+    "price": 95.28,
+    "description": "A high-quality speaker manufactured by Nova, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User112",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User838",
+        "rating": 3,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User119",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_008",
+    "name": "TechCorp Tablet Pro 6",
+    "category": "Tablet",
+    "price": 914.3,
+    "description": "A high-quality tablet manufactured by TechCorp, featuring the latest pro technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User567",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_009",
+    "name": "PixelCraft Camera Plus 9",
+    "category": "Camera",
+    "price": 657.27,
+    "description": "A high-quality camera manufactured by PixelCraft, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User982",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User547",
+        "rating": 5,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User650",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User481",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_010",
+    "name": "Cyborg Mobile Elite 2",
+    "category": "Mobile",
+    "price": 670.37,
+    "description": "A high-quality mobile manufactured by Cyborg, featuring the latest elite technologies.",
+    "discounts": [
+      "Save $26 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User869",
+        "rating": 5,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User639",
+        "rating": 5,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_011",
+    "name": "TechCorp Smartwatch Advanced 5",
+    "category": "Smartwatch",
+    "price": 236.51,
+    "description": "A high-quality smartwatch manufactured by TechCorp, featuring the latest advanced technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User931",
+        "rating": 1,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User641",
+        "rating": 4,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User203",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User678",
+        "rating": 5,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_012",
+    "name": "TechCorp Laptop Plus 6",
+    "category": "Laptop",
+    "price": 2071.36,
+    "description": "A high-quality laptop manufactured by TechCorp, featuring the latest plus technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User705",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User815",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_013",
+    "name": "AudioMax Laptop Advanced 9",
+    "category": "Laptop",
+    "price": 1175.92,
+    "description": "A high-quality laptop manufactured by AudioMax, featuring the latest advanced technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User520",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_014",
+    "name": "Sonic Mobile Advanced 10",
+    "category": "Mobile",
+    "price": 1187.11,
+    "description": "A high-quality mobile manufactured by Sonic, featuring the latest advanced technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $27 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User770",
+        "rating": 4,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User623",
+        "rating": 5,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User496",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User436",
+        "rating": 2,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_015",
+    "name": "TechCorp Laptop Elite 11",
+    "category": "Laptop",
+    "price": 879.37,
+    "description": "A high-quality laptop manufactured by TechCorp, featuring the latest elite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User434",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User345",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_016",
+    "name": "Sonic Camera Pro 13",
+    "category": "Camera",
+    "price": 548.5,
+    "description": "A high-quality camera manufactured by Sonic, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User502",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User175",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User436",
+        "rating": 4,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_017",
+    "name": "PixelCraft Smartwatch Lite 1",
+    "category": "Smartwatch",
+    "price": 135.18,
+    "description": "A high-quality smartwatch manufactured by PixelCraft, featuring the latest lite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User123",
+        "rating": 3,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User177",
+        "rating": 3,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User389",
+        "rating": 1,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_018",
+    "name": "AudioMax TV Max 10",
+    "category": "TV",
+    "price": 1628.6,
+    "description": "A high-quality tv manufactured by AudioMax, featuring the latest max technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User135",
+        "rating": 2,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User497",
+        "rating": 3,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User254",
+        "rating": 3,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User217",
+        "rating": 4,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User132",
+        "rating": 3,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_019",
+    "name": "PixelCraft Headphones Pro 9",
+    "category": "Headphones",
+    "price": 286.84,
+    "description": "A high-quality headphones manufactured by PixelCraft, featuring the latest pro technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User872",
+        "rating": 2,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User184",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User749",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User823",
+        "rating": 2,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User850",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_020",
+    "name": "TechCorp Smartwatch Plus 8",
+    "category": "Smartwatch",
+    "price": 234.48,
+    "description": "A high-quality smartwatch manufactured by TechCorp, featuring the latest plus technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User251",
+        "rating": 2,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User788",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User588",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User840",
+        "rating": 2,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User689",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_021",
+    "name": "PixelCraft TV Plus 8",
+    "category": "TV",
+    "price": 675.97,
+    "description": "A high-quality tv manufactured by PixelCraft, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $42 at checkout"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_022",
+    "name": "TechCorp Camera Ultra 3",
+    "category": "Camera",
+    "price": 1005.12,
+    "description": "A high-quality camera manufactured by TechCorp, featuring the latest ultra technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User376",
+        "rating": 1,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User838",
+        "rating": 1,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_023",
+    "name": "Sonic Headphones Essential 3",
+    "category": "Headphones",
+    "price": 121.16,
+    "description": "A high-quality headphones manufactured by Sonic, featuring the latest essential technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User348",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User897",
+        "rating": 1,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_024",
+    "name": "TechCorp Laptop Pro 11",
+    "category": "Laptop",
+    "price": 1591.43,
+    "description": "A high-quality laptop manufactured by TechCorp, featuring the latest pro technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User502",
+        "rating": 2,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User808",
+        "rating": 5,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_025",
+    "name": "Cyborg Smartwatch Advanced 1",
+    "category": "Smartwatch",
+    "price": 216.69,
+    "description": "A high-quality smartwatch manufactured by Cyborg, featuring the latest advanced technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User619",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User860",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User868",
+        "rating": 5,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User705",
+        "rating": 2,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User174",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_026",
+    "name": "PixelCraft Mobile Plus 6",
+    "category": "Mobile",
+    "price": 1014.27,
+    "description": "A high-quality mobile manufactured by PixelCraft, featuring the latest plus technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User244",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User604",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User475",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User333",
+        "rating": 3,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_027",
+    "name": "AudioMax Camera Pro 12",
+    "category": "Camera",
+    "price": 404.39,
+    "description": "A high-quality camera manufactured by AudioMax, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $27 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User332",
+        "rating": 3,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_028",
+    "name": "TechCorp TV Advanced 10",
+    "category": "TV",
+    "price": 525.52,
+    "description": "A high-quality tv manufactured by TechCorp, featuring the latest advanced technologies.",
+    "discounts": [
+      "Save $46 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User738",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_029",
+    "name": "PixelCraft Laptop Ultra 11",
+    "category": "Laptop",
+    "price": 1159.05,
+    "description": "A high-quality laptop manufactured by PixelCraft, featuring the latest ultra technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User753",
+        "rating": 2,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_030",
+    "name": "PixelCraft Camera Advanced 7",
+    "category": "Camera",
+    "price": 1000.52,
+    "description": "A high-quality camera manufactured by PixelCraft, featuring the latest advanced technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User592",
+        "rating": 1,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User791",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User203",
+        "rating": 2,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User258",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User957",
+        "rating": 1,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_031",
+    "name": "Cyborg Smartwatch Lite 3",
+    "category": "Smartwatch",
+    "price": 109.05,
+    "description": "A high-quality smartwatch manufactured by Cyborg, featuring the latest lite technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $15 at checkout"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_032",
+    "name": "AudioMax TV Advanced 6",
+    "category": "TV",
+    "price": 1039.61,
+    "description": "A high-quality tv manufactured by AudioMax, featuring the latest advanced technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User774",
+        "rating": 3,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User388",
+        "rating": 4,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_033",
+    "name": "AudioMax Speaker Pro 12",
+    "category": "Speaker",
+    "price": 78.63,
+    "description": "A high-quality speaker manufactured by AudioMax, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User210",
+        "rating": 5,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User895",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_034",
+    "name": "Sonic Smartwatch Elite 14",
+    "category": "Smartwatch",
+    "price": 293.48,
+    "description": "A high-quality smartwatch manufactured by Sonic, featuring the latest elite technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User354",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User716",
+        "rating": 1,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_035",
+    "name": "ViewMaster TV Ultra 12",
+    "category": "TV",
+    "price": 1738.22,
+    "description": "A high-quality tv manufactured by ViewMaster, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User836",
+        "rating": 5,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User536",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_036",
+    "name": "ViewMaster Speaker Pro 10",
+    "category": "Speaker",
+    "price": 277.26,
+    "description": "A high-quality speaker manufactured by ViewMaster, featuring the latest pro technologies.",
+    "discounts": [
+      "Save $42 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User704",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User623",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User682",
+        "rating": 3,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User855",
+        "rating": 3,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_037",
+    "name": "ViewMaster Headphones Lite 3",
+    "category": "Headphones",
+    "price": 237.33,
+    "description": "A high-quality headphones manufactured by ViewMaster, featuring the latest lite technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User685",
+        "rating": 3,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User453",
+        "rating": 2,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User703",
+        "rating": 5,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User875",
+        "rating": 2,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_038",
+    "name": "Sonic TV Essential 10",
+    "category": "TV",
+    "price": 979.81,
+    "description": "A high-quality tv manufactured by Sonic, featuring the latest essential technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User580",
+        "rating": 1,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_039",
+    "name": "Nova Mobile Ultra 11",
+    "category": "Mobile",
+    "price": 949.86,
+    "description": "A high-quality mobile manufactured by Nova, featuring the latest ultra technologies.",
+    "discounts": [
+      "Save $32 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User537",
+        "rating": 2,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_040",
+    "name": "TechCorp Mobile Advanced 5",
+    "category": "Mobile",
+    "price": 591.96,
+    "description": "A high-quality mobile manufactured by TechCorp, featuring the latest advanced technologies.",
+    "discounts": [],
+    "reviews": []
+  },
+  {
+    "id": "prod_041",
+    "name": "Sonic Headphones Elite 12",
+    "category": "Headphones",
+    "price": 179.19,
+    "description": "A high-quality headphones manufactured by Sonic, featuring the latest elite technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User814",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User702",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User695",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User728",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User422",
+        "rating": 2,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_042",
+    "name": "TechCorp Speaker Max 4",
+    "category": "Speaker",
+    "price": 156.0,
+    "description": "A high-quality speaker manufactured by TechCorp, featuring the latest max technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User731",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User631",
+        "rating": 1,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User565",
+        "rating": 1,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User515",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_043",
+    "name": "Nova Headphones Plus 12",
+    "category": "Headphones",
+    "price": 199.0,
+    "description": "A high-quality headphones manufactured by Nova, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User209",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User468",
+        "rating": 2,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User174",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_044",
+    "name": "GigaByte Camera Plus 14",
+    "category": "Camera",
+    "price": 774.89,
+    "description": "A high-quality camera manufactured by GigaByte, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User639",
+        "rating": 1,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User430",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User525",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User993",
+        "rating": 1,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User455",
+        "rating": 1,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_045",
+    "name": "ViewMaster Mobile Essential 9",
+    "category": "Mobile",
+    "price": 366.96,
+    "description": "A high-quality mobile manufactured by ViewMaster, featuring the latest essential technologies.",
+    "discounts": [
+      "Save $23 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User765",
+        "rating": 2,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_046",
+    "name": "ViewMaster Laptop Advanced 14",
+    "category": "Laptop",
+    "price": 2194.08,
+    "description": "A high-quality laptop manufactured by ViewMaster, featuring the latest advanced technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User231",
+        "rating": 5,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User256",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User326",
+        "rating": 5,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_047",
+    "name": "TechCorp Laptop Pro 9",
+    "category": "Laptop",
+    "price": 1077.3,
+    "description": "A high-quality laptop manufactured by TechCorp, featuring the latest pro technologies.",
+    "discounts": [
+      "Save $31 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User663",
+        "rating": 2,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User370",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User272",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User148",
+        "rating": 1,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_048",
+    "name": "Cyborg Camera Advanced 12",
+    "category": "Camera",
+    "price": 1115.3,
+    "description": "A high-quality camera manufactured by Cyborg, featuring the latest advanced technologies.",
+    "discounts": [
+      "Save $35 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User929",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User371",
+        "rating": 4,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_049",
+    "name": "ViewMaster Tablet Max 14",
+    "category": "Tablet",
+    "price": 1138.99,
+    "description": "A high-quality tablet manufactured by ViewMaster, featuring the latest max technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User767",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User908",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User558",
+        "rating": 4,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_050",
+    "name": "TechCorp Mobile Plus 2",
+    "category": "Mobile",
+    "price": 514.17,
+    "description": "A high-quality mobile manufactured by TechCorp, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User489",
+        "rating": 3,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User334",
+        "rating": 1,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User273",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_051",
+    "name": "ViewMaster Headphones Max 10",
+    "category": "Headphones",
+    "price": 161.39,
+    "description": "A high-quality headphones manufactured by ViewMaster, featuring the latest max technologies.",
+    "discounts": [
+      "Save $35 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User234",
+        "rating": 5,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User589",
+        "rating": 3,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User851",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_052",
+    "name": "Sonic Tablet Plus 15",
+    "category": "Tablet",
+    "price": 811.1,
+    "description": "A high-quality tablet manufactured by Sonic, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User743",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User500",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User462",
+        "rating": 2,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_053",
+    "name": "ViewMaster Smartwatch Lite 7",
+    "category": "Smartwatch",
+    "price": 78.43,
+    "description": "A high-quality smartwatch manufactured by ViewMaster, featuring the latest lite technologies.",
+    "discounts": [
+      "Save $11 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User620",
+        "rating": 1,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User661",
+        "rating": 2,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User165",
+        "rating": 4,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User430",
+        "rating": 5,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_054",
+    "name": "Nova Smartwatch Ultra 5",
+    "category": "Smartwatch",
+    "price": 218.76,
+    "description": "A high-quality smartwatch manufactured by Nova, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $36 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User532",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User549",
+        "rating": 1,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User287",
+        "rating": 4,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_055",
+    "name": "Cyborg Headphones Essential 10",
+    "category": "Headphones",
+    "price": 186.87,
+    "description": "A high-quality headphones manufactured by Cyborg, featuring the latest essential technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User904",
+        "rating": 3,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User283",
+        "rating": 5,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User827",
+        "rating": 2,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_056",
+    "name": "TechCorp Camera Ultra 1",
+    "category": "Camera",
+    "price": 846.79,
+    "description": "A high-quality camera manufactured by TechCorp, featuring the latest ultra technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User243",
+        "rating": 2,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User288",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User846",
+        "rating": 3,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User236",
+        "rating": 2,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_057",
+    "name": "AudioMax Headphones Ultra 1",
+    "category": "Headphones",
+    "price": 143.15,
+    "description": "A high-quality headphones manufactured by AudioMax, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User560",
+        "rating": 2,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User893",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User115",
+        "rating": 1,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User302",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User287",
+        "rating": 1,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_058",
+    "name": "PixelCraft Camera Ultra 8",
+    "category": "Camera",
+    "price": 430.32,
+    "description": "A high-quality camera manufactured by PixelCraft, featuring the latest ultra technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User247",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User111",
+        "rating": 4,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User987",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User896",
+        "rating": 1,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_059",
+    "name": "Sonic Tablet Pro 6",
+    "category": "Tablet",
+    "price": 413.84,
+    "description": "A high-quality tablet manufactured by Sonic, featuring the latest pro technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User179",
+        "rating": 1,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User281",
+        "rating": 2,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User556",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_060",
+    "name": "Nova TV Essential 3",
+    "category": "TV",
+    "price": 2282.59,
+    "description": "A high-quality tv manufactured by Nova, featuring the latest essential technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User683",
+        "rating": 2,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User747",
+        "rating": 2,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_061",
+    "name": "Sonic Tablet Max 5",
+    "category": "Tablet",
+    "price": 740.12,
+    "description": "A high-quality tablet manufactured by Sonic, featuring the latest max technologies.",
+    "discounts": [],
+    "reviews": []
+  },
+  {
+    "id": "prod_062",
+    "name": "ViewMaster Mobile Lite 3",
+    "category": "Mobile",
+    "price": 499.85,
+    "description": "A high-quality mobile manufactured by ViewMaster, featuring the latest lite technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $33 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User210",
+        "rating": 3,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User386",
+        "rating": 1,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_063",
+    "name": "PixelCraft Smartwatch Ultra 15",
+    "category": "Smartwatch",
+    "price": 162.19,
+    "description": "A high-quality smartwatch manufactured by PixelCraft, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $21 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User258",
+        "rating": 3,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User943",
+        "rating": 4,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User457",
+        "rating": 1,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_064",
+    "name": "TechCorp TV Lite 8",
+    "category": "TV",
+    "price": 1237.53,
+    "description": "A high-quality tv manufactured by TechCorp, featuring the latest lite technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User864",
+        "rating": 3,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User956",
+        "rating": 5,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_065",
+    "name": "GigaByte TV Elite 1",
+    "category": "TV",
+    "price": 1925.82,
+    "description": "A high-quality tv manufactured by GigaByte, featuring the latest elite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User104",
+        "rating": 1,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User705",
+        "rating": 2,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User830",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User176",
+        "rating": 3,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_066",
+    "name": "AudioMax TV Pro 8",
+    "category": "TV",
+    "price": 2372.49,
+    "description": "A high-quality tv manufactured by AudioMax, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User967",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_067",
+    "name": "Sonic Camera Advanced 5",
+    "category": "Camera",
+    "price": 471.51,
+    "description": "A high-quality camera manufactured by Sonic, featuring the latest advanced technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User746",
+        "rating": 3,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User552",
+        "rating": 2,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_068",
+    "name": "TechCorp Smartwatch Elite 12",
+    "category": "Smartwatch",
+    "price": 211.98,
+    "description": "A high-quality smartwatch manufactured by TechCorp, featuring the latest elite technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User729",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User427",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User825",
+        "rating": 2,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User810",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User960",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_069",
+    "name": "Sonic Tablet Ultra 14",
+    "category": "Tablet",
+    "price": 1019.25,
+    "description": "A high-quality tablet manufactured by Sonic, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $30 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User286",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User605",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User744",
+        "rating": 4,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User515",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_070",
+    "name": "Sonic Tablet Max 2",
+    "category": "Tablet",
+    "price": 841.16,
+    "description": "A high-quality tablet manufactured by Sonic, featuring the latest max technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $27 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User287",
+        "rating": 5,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User624",
+        "rating": 1,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User248",
+        "rating": 3,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User267",
+        "rating": 2,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User606",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_071",
+    "name": "ViewMaster Camera Essential 10",
+    "category": "Camera",
+    "price": 583.32,
+    "description": "A high-quality camera manufactured by ViewMaster, featuring the latest essential technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User395",
+        "rating": 3,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User370",
+        "rating": 2,
+        "comment": "Amazing display."
+      }
+    ]
+  },
+  {
+    "id": "prod_072",
+    "name": "Cyborg Mobile Elite 13",
+    "category": "Mobile",
+    "price": 727.68,
+    "description": "A high-quality mobile manufactured by Cyborg, featuring the latest elite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User402",
+        "rating": 3,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User491",
+        "rating": 5,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_073",
+    "name": "ViewMaster Headphones Lite 8",
+    "category": "Headphones",
+    "price": 146.05,
+    "description": "A high-quality headphones manufactured by ViewMaster, featuring the latest lite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_074",
+    "name": "Nova Mobile Max 15",
+    "category": "Mobile",
+    "price": 534.52,
+    "description": "A high-quality mobile manufactured by Nova, featuring the latest max technologies.",
+    "discounts": [
+      "Save $18 at checkout"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_075",
+    "name": "Nova Speaker Advanced 13",
+    "category": "Speaker",
+    "price": 184.01,
+    "description": "A high-quality speaker manufactured by Nova, featuring the latest advanced technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User613",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User935",
+        "rating": 3,
+        "comment": "Not worth the price."
+      }
+    ]
+  },
+  {
+    "id": "prod_076",
+    "name": "ViewMaster Laptop Lite 11",
+    "category": "Laptop",
+    "price": 584.51,
+    "description": "A high-quality laptop manufactured by ViewMaster, featuring the latest lite technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User936",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_077",
+    "name": "Nova Mobile Plus 13",
+    "category": "Mobile",
+    "price": 365.67,
+    "description": "A high-quality mobile manufactured by Nova, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_078",
+    "name": "GigaByte Camera Lite 10",
+    "category": "Camera",
+    "price": 447.25,
+    "description": "A high-quality camera manufactured by GigaByte, featuring the latest lite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User632",
+        "rating": 1,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User112",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User736",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_079",
+    "name": "Cyborg Camera Ultra 5",
+    "category": "Camera",
+    "price": 701.51,
+    "description": "A high-quality camera manufactured by Cyborg, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_080",
+    "name": "TechCorp Mobile Lite 12",
+    "category": "Mobile",
+    "price": 995.18,
+    "description": "A high-quality mobile manufactured by TechCorp, featuring the latest lite technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User632",
+        "rating": 3,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User551",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User600",
+        "rating": 1,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User947",
+        "rating": 2,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_081",
+    "name": "TechCorp TV Lite 9",
+    "category": "TV",
+    "price": 1701.04,
+    "description": "A high-quality tv manufactured by TechCorp, featuring the latest lite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User783",
+        "rating": 4,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_082",
+    "name": "PixelCraft Laptop Max 9",
+    "category": "Laptop",
+    "price": 2088.04,
+    "description": "A high-quality laptop manufactured by PixelCraft, featuring the latest max technologies.",
+    "discounts": [
+      "Save $40 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User759",
+        "rating": 2,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User886",
+        "rating": 4,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User582",
+        "rating": 1,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User737",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User951",
+        "rating": 1,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_083",
+    "name": "PixelCraft Mobile Max 14",
+    "category": "Mobile",
+    "price": 1090.37,
+    "description": "A high-quality mobile manufactured by PixelCraft, featuring the latest max technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User439",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_084",
+    "name": "Nova Camera Ultra 13",
+    "category": "Camera",
+    "price": 794.66,
+    "description": "A high-quality camera manufactured by Nova, featuring the latest ultra technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $48 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User379",
+        "rating": 5,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_085",
+    "name": "Nova Headphones Max 14",
+    "category": "Headphones",
+    "price": 100.65,
+    "description": "A high-quality headphones manufactured by Nova, featuring the latest max technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User672",
+        "rating": 4,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User623",
+        "rating": 1,
+        "comment": "Amazing display."
+      },
+      {
+        "user": "User527",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User309",
+        "rating": 5,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_086",
+    "name": "PixelCraft Mobile Essential 13",
+    "category": "Mobile",
+    "price": 1081.18,
+    "description": "A high-quality mobile manufactured by PixelCraft, featuring the latest essential technologies.",
+    "discounts": [
+      "Save $47 at checkout"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_087",
+    "name": "AudioMax Mobile Plus 5",
+    "category": "Mobile",
+    "price": 590.02,
+    "description": "A high-quality mobile manufactured by AudioMax, featuring the latest plus technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_088",
+    "name": "TechCorp Speaker Essential 9",
+    "category": "Speaker",
+    "price": 166.23,
+    "description": "A high-quality speaker manufactured by TechCorp, featuring the latest essential technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_089",
+    "name": "AudioMax Speaker Elite 8",
+    "category": "Speaker",
+    "price": 186.52,
+    "description": "A high-quality speaker manufactured by AudioMax, featuring the latest elite technologies.",
+    "discounts": [
+      "Save $33 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User725",
+        "rating": 1,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User421",
+        "rating": 2,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User858",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "id": "prod_090",
+    "name": "GigaByte Speaker Pro 15",
+    "category": "Speaker",
+    "price": 171.03,
+    "description": "A high-quality speaker manufactured by GigaByte, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User178",
+        "rating": 5,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_091",
+    "name": "TechCorp Headphones Ultra 7",
+    "category": "Headphones",
+    "price": 202.45,
+    "description": "A high-quality headphones manufactured by TechCorp, featuring the latest ultra technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User399",
+        "rating": 5,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_092",
+    "name": "TechCorp Tablet Pro 10",
+    "category": "Tablet",
+    "price": 562.42,
+    "description": "A high-quality tablet manufactured by TechCorp, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $10 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User656",
+        "rating": 3,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User257",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User950",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User646",
+        "rating": 2,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User239",
+        "rating": 4,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "prod_093",
+    "name": "TechCorp Headphones Advanced 3",
+    "category": "Headphones",
+    "price": 272.64,
+    "description": "A high-quality headphones manufactured by TechCorp, featuring the latest advanced technologies.",
+    "discounts": [
+      "Save $24 at checkout"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_094",
+    "name": "TechCorp Speaker Pro 4",
+    "category": "Speaker",
+    "price": 87.34,
+    "description": "A high-quality speaker manufactured by TechCorp, featuring the latest pro technologies.",
+    "discounts": [
+      "10% off for members",
+      "Save $46 at checkout"
+    ],
+    "reviews": [
+      {
+        "user": "User105",
+        "rating": 5,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User222",
+        "rating": 4,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User473",
+        "rating": 4,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User782",
+        "rating": 2,
+        "comment": "Battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": "prod_095",
+    "name": "PixelCraft Laptop Elite 3",
+    "category": "Laptop",
+    "price": 1618.61,
+    "description": "A high-quality laptop manufactured by PixelCraft, featuring the latest elite technologies.",
+    "discounts": [
+      "Save $39 at checkout"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_096",
+    "name": "ViewMaster Laptop Essential 8",
+    "category": "Laptop",
+    "price": 2287.18,
+    "description": "A high-quality laptop manufactured by ViewMaster, featuring the latest essential technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "prod_097",
+    "name": "AudioMax Speaker Elite 2",
+    "category": "Speaker",
+    "price": 283.4,
+    "description": "A high-quality speaker manufactured by AudioMax, featuring the latest elite technologies.",
+    "discounts": [],
+    "reviews": []
+  },
+  {
+    "id": "prod_098",
+    "name": "ViewMaster Tablet Elite 12",
+    "category": "Tablet",
+    "price": 975.08,
+    "description": "A high-quality tablet manufactured by ViewMaster, featuring the latest elite technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User442",
+        "rating": 5,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User309",
+        "rating": 3,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_099",
+    "name": "ViewMaster Headphones Essential 7",
+    "category": "Headphones",
+    "price": 139.35,
+    "description": "A high-quality headphones manufactured by ViewMaster, featuring the latest essential technologies.",
+    "discounts": [],
+    "reviews": [
+      {
+        "user": "User306",
+        "rating": 3,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User434",
+        "rating": 5,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User596",
+        "rating": 1,
+        "comment": "Battery life could be better."
+      },
+      {
+        "user": "User518",
+        "rating": 5,
+        "comment": "Highly recommended."
+      },
+      {
+        "user": "User273",
+        "rating": 1,
+        "comment": "Just okay."
+      }
+    ]
+  },
+  {
+    "id": "prod_100",
+    "name": "TechCorp Mobile Advanced 5",
+    "category": "Mobile",
+    "price": 753.91,
+    "description": "A high-quality mobile manufactured by TechCorp, featuring the latest advanced technologies.",
+    "discounts": [
+      "10% off for members"
+    ],
+    "reviews": [
+      {
+        "user": "User169",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User378",
+        "rating": 5,
+        "comment": "Not worth the price."
+      },
+      {
+        "user": "User512",
+        "rating": 4,
+        "comment": "Just okay."
+      },
+      {
+        "user": "User830",
+        "rating": 1,
+        "comment": "Not worth the price."
+      }
+    ]
+  }
+]

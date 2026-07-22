@@ -8,6 +8,7 @@ This repository tracks my learning path and projects to become a Principal/Senio
 * [Search Agent](./search-agent/) - A LangChain agent implementing a Tavily search tool and Pydantic schemas
 * [E-Commerce Agent with Loop](./ecommerce-agent-with-loop/) - A custom tool-calling agent loop implementation featuring 5 custom tools (`searchitems`, `getitems`, `available_discounts`, `getreviews`, `calculate_final_price`). It operates over a generated JSON mock inventory and demonstrates structured Pydantic outputs alongside interactive chain-of-thought reasoning.
 * [E-Commerce Agent with Classic ReAct](./ecommerce-agent-with-reactprompt/) - An implementation of the ReAct agent using the modern LangGraph `create_react_agent` architecture.
+* [Advanced RAG: ADO Wiki Search](./advanced-rag/) - High-level architectural requirements for a scalable, markdown-aware RAG pipeline over Azure DevOps Wiki repositories.
 
 ---
 
